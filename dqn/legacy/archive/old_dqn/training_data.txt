@@ -1,0 +1,166 @@
+Starting Training on cuda...
+Rendering: False | Eval Interval: 5000
+Step 5000 | Train Avg: 0.2 | Eval Score: 0.0 | Eps: 0.95
+   >>> New Best Model Saved! (0.0)
+Step 10000 | Train Avg: 0.2 | Eval Score: 0.2 | Eps: 0.91
+   >>> New Best Model Saved! (0.2)
+Step 15000 | Train Avg: 0.2 | Eval Score: 0.0 | Eps: 0.86
+Step 20000 | Train Avg: 0.2 | Eval Score: 0.0 | Eps: 0.81
+Step 25000 | Train Avg: 0.3 | Eval Score: 0.4 | Eps: 0.76
+   >>> New Best Model Saved! (0.4)
+Step 30000 | Train Avg: 0.3 | Eval Score: 0.4 | Eps: 0.71
+Step 35000 | Train Avg: 0.5 | Eval Score: 1.0 | Eps: 0.67
+   >>> New Best Model Saved! (1.0)
+Step 40000 | Train Avg: 0.6 | Eval Score: 1.4 | Eps: 0.62
+   >>> New Best Model Saved! (1.4)
+Step 45000 | Train Avg: 1.0 | Eval Score: 1.6 | Eps: 0.57
+   >>> New Best Model Saved! (1.6)
+Step 50000 | Train Avg: 1.4 | Eval Score: 2.6 | Eps: 0.53
+   >>> New Best Model Saved! (2.6)
+Step 55000 | Train Avg: 1.4 | Eval Score: 3.8 | Eps: 0.48
+   >>> New Best Model Saved! (3.8)
+Step 60000 | Train Avg: 1.7 | Eval Score: 4.2 | Eps: 0.43
+   >>> New Best Model Saved! (4.2)
+Step 65000 | Train Avg: 1.8 | Eval Score: 5.2 | Eps: 0.38
+   >>> New Best Model Saved! (5.2)
+Step 70000 | Train Avg: 2.0 | Eval Score: 4.0 | Eps: 0.33
+Step 75000 | Train Avg: 2.3 | Eval Score: 2.2 | Eps: 0.29
+Step 80000 | Train Avg: 2.7 | Eval Score: 4.0 | Eps: 0.24
+Step 85000 | Train Avg: 3.0 | Eval Score: 6.0 | Eps: 0.19
+   >>> New Best Model Saved! (6.0)
+Step 90000 | Train Avg: 3.7 | Eval Score: 6.2 | Eps: 0.15
+   >>> New Best Model Saved! (6.2)
+Step 95000 | Train Avg: 3.8 | Eval Score: 5.8 | Eps: 0.10
+Step 100000 | Train Avg: 5.1 | Eval Score: 6.2 | Eps: 0.05
+Step 105000 | Train Avg: 5.6 | Eval Score: 7.0 | Eps: 0.05
+   >>> New Best Model Saved! (7.0)
+Step 110000 | Train Avg: 5.8 | Eval Score: 8.2 | Eps: 0.05
+   >>> New Best Model Saved! (8.2)
+Step 115000 | Train Avg: 6.4 | Eval Score: 6.8 | Eps: 0.05
+Step 120000 | Train Avg: 7.1 | Eval Score: 8.6 | Eps: 0.05
+   >>> New Best Model Saved! (8.6)
+Step 125000 | Train Avg: 6.8 | Eval Score: 7.2 | Eps: 0.05
+Step 130000 | Train Avg: 6.6 | Eval Score: 10.0 | Eps: 0.05
+   >>> New Best Model Saved! (10.0)
+Step 135000 | Train Avg: 6.7 | Eval Score: 7.6 | Eps: 0.05
+Step 140000 | Train Avg: 6.8 | Eval Score: 10.2 | Eps: 0.05
+   >>> New Best Model Saved! (10.2)
+Step 145000 | Train Avg: 7.0 | Eval Score: 11.6 | Eps: 0.05
+   >>> New Best Model Saved! (11.6)
+Step 150000 | Train Avg: 7.5 | Eval Score: 10.6 | Eps: 0.05
+Step 155000 | Train Avg: 7.5 | Eval Score: 8.4 | Eps: 0.05
+Step 160000 | Train Avg: 7.2 | Eval Score: 9.8 | Eps: 0.05
+Step 165000 | Train Avg: 7.4 | Eval Score: 12.6 | Eps: 0.05
+   >>> New Best Model Saved! (12.6)
+Step 170000 | Train Avg: 7.7 | Eval Score: 12.8 | Eps: 0.05
+   >>> New Best Model Saved! (12.8)
+Step 175000 | Train Avg: 7.7 | Eval Score: 15.4 | Eps: 0.05
+   >>> New Best Model Saved! (15.4)
+Step 180000 | Train Avg: 7.6 | Eval Score: 13.6 | Eps: 0.05
+Step 185000 | Train Avg: 8.1 | Eval Score: 14.0 | Eps: 0.05
+Step 190000 | Train Avg: 8.3 | Eval Score: 16.4 | Eps: 0.05
+   >>> New Best Model Saved! (16.4)
+Step 195000 | Train Avg: 7.3 | Eval Score: 14.2 | Eps: 0.05
+Step 200000 | Train Avg: 7.8 | Eval Score: 14.8 | Eps: 0.05
+Step 205000 | Train Avg: 8.8 | Eval Score: 15.2 | Eps: 0.05
+Step 210000 | Train Avg: 9.2 | Eval Score: 15.6 | Eps: 0.05
+Step 215000 | Train Avg: 9.7 | Eval Score: 13.6 | Eps: 0.05
+Step 220000 | Train Avg: 9.1 | Eval Score: 11.8 | Eps: 0.05
+Step 225000 | Train Avg: 9.2 | Eval Score: 14.4 | Eps: 0.05
+Step 230000 | Train Avg: 9.8 | Eval Score: 15.2 | Eps: 0.05
+Step 235000 | Train Avg: 8.2 | Eval Score: 12.0 | Eps: 0.05
+Step 240000 | Train Avg: 8.1 | Eval Score: 15.8 | Eps: 0.05
+Step 245000 | Train Avg: 8.0 | Eval Score: 15.0 | Eps: 0.05
+Step 250000 | Train Avg: 8.3 | Eval Score: 11.4 | Eps: 0.05
+Step 255000 | Train Avg: 9.6 | Eval Score: 16.2 | Eps: 0.05
+Step 260000 | Train Avg: 9.1 | Eval Score: 13.6 | Eps: 0.05
+Step 265000 | Train Avg: 9.0 | Eval Score: 16.2 | Eps: 0.05
+Step 270000 | Train Avg: 9.3 | Eval Score: 17.0 | Eps: 0.05
+   >>> New Best Model Saved! (17.0)
+Step 275000 | Train Avg: 9.4 | Eval Score: 17.0 | Eps: 0.05
+Step 280000 | Train Avg: 9.2 | Eval Score: 15.4 | Eps: 0.05
+Step 285000 | Train Avg: 8.2 | Eval Score: 16.0 | Eps: 0.05
+Step 290000 | Train Avg: 9.1 | Eval Score: 18.8 | Eps: 0.05
+   >>> New Best Model Saved! (18.8)
+Step 295000 | Train Avg: 9.8 | Eval Score: 15.0 | Eps: 0.05
+Step 300000 | Train Avg: 8.1 | Eval Score: 15.2 | Eps: 0.05
+Step 305000 | Train Avg: 8.4 | Eval Score: 14.8 | Eps: 0.05
+Step 310000 | Train Avg: 9.4 | Eval Score: 16.4 | Eps: 0.05
+Step 315000 | Train Avg: 9.6 | Eval Score: 19.0 | Eps: 0.05
+   >>> New Best Model Saved! (19.0)
+Step 320000 | Train Avg: 10.3 | Eval Score: 17.8 | Eps: 0.05
+Step 325000 | Train Avg: 10.0 | Eval Score: 19.0 | Eps: 0.05
+Step 330000 | Train Avg: 8.7 | Eval Score: 17.6 | Eps: 0.05
+Step 335000 | Train Avg: 9.1 | Eval Score: 18.4 | Eps: 0.05
+Step 340000 | Train Avg: 9.1 | Eval Score: 16.0 | Eps: 0.05
+Step 345000 | Train Avg: 9.0 | Eval Score: 12.8 | Eps: 0.05
+Step 350000 | Train Avg: 9.3 | Eval Score: 10.0 | Eps: 0.05
+Step 355000 | Train Avg: 8.7 | Eval Score: 15.6 | Eps: 0.05
+Step 360000 | Train Avg: 8.8 | Eval Score: 14.0 | Eps: 0.05
+Step 365000 | Train Avg: 9.1 | Eval Score: 16.8 | Eps: 0.05
+Step 370000 | Train Avg: 9.1 | Eval Score: 22.8 | Eps: 0.05
+   >>> New Best Model Saved! (22.8)
+Step 375000 | Train Avg: 8.9 | Eval Score: 19.4 | Eps: 0.05
+Step 380000 | Train Avg: 9.6 | Eval Score: 18.8 | Eps: 0.05
+Step 385000 | Train Avg: 10.1 | Eval Score: 18.8 | Eps: 0.05
+Step 390000 | Train Avg: 9.8 | Eval Score: 17.4 | Eps: 0.05
+Step 395000 | Train Avg: 10.7 | Eval Score: 18.0 | Eps: 0.05
+Step 400000 | Train Avg: 10.6 | Eval Score: 21.4 | Eps: 0.05
+Step 405000 | Train Avg: 8.8 | Eval Score: 16.2 | Eps: 0.05
+Step 410000 | Train Avg: 9.8 | Eval Score: 16.6 | Eps: 0.05
+Step 415000 | Train Avg: 10.4 | Eval Score: 21.8 | Eps: 0.05
+Step 420000 | Train Avg: 10.6 | Eval Score: 17.0 | Eps: 0.05
+Step 425000 | Train Avg: 10.4 | Eval Score: 19.2 | Eps: 0.05
+Step 430000 | Train Avg: 10.2 | Eval Score: 20.2 | Eps: 0.05
+Step 435000 | Train Avg: 10.3 | Eval Score: 17.8 | Eps: 0.05
+Step 440000 | Train Avg: 10.1 | Eval Score: 19.6 | Eps: 0.05
+Step 445000 | Train Avg: 10.0 | Eval Score: 17.4 | Eps: 0.05
+Step 450000 | Train Avg: 9.5 | Eval Score: 22.4 | Eps: 0.05
+Step 455000 | Train Avg: 10.4 | Eval Score: 16.6 | Eps: 0.05
+Step 460000 | Train Avg: 10.1 | Eval Score: 14.4 | Eps: 0.05
+Step 465000 | Train Avg: 10.3 | Eval Score: 21.0 | Eps: 0.05
+Step 470000 | Train Avg: 10.2 | Eval Score: 19.0 | Eps: 0.05
+Step 475000 | Train Avg: 9.2 | Eval Score: 17.6 | Eps: 0.05
+Step 480000 | Train Avg: 9.6 | Eval Score: 15.8 | Eps: 0.05
+Step 485000 | Train Avg: 10.4 | Eval Score: 20.2 | Eps: 0.05
+Step 490000 | Train Avg: 9.8 | Eval Score: 17.4 | Eps: 0.05
+Step 495000 | Train Avg: 9.1 | Eval Score: 17.6 | Eps: 0.05
+Step 500000 | Train Avg: 9.5 | Eval Score: 22.0 | Eps: 0.05
+Step 505000 | Train Avg: 10.3 | Eval Score: 17.2 | Eps: 0.05
+Step 510000 | Train Avg: 10.1 | Eval Score: 16.6 | Eps: 0.05
+Step 515000 | Train Avg: 9.6 | Eval Score: 24.0 | Eps: 0.05
+   >>> New Best Model Saved! (24.0)
+Step 520000 | Train Avg: 9.6 | Eval Score: 16.4 | Eps: 0.05
+Step 525000 | Train Avg: 9.6 | Eval Score: 16.2 | Eps: 0.05
+Step 530000 | Train Avg: 9.6 | Eval Score: 20.2 | Eps: 0.05
+Step 535000 | Train Avg: 9.4 | Eval Score: 15.8 | Eps: 0.05
+Step 540000 | Train Avg: 9.5 | Eval Score: 14.4 | Eps: 0.05
+Step 545000 | Train Avg: 9.9 | Eval Score: 14.6 | Eps: 0.05
+Step 550000 | Train Avg: 9.8 | Eval Score: 19.8 | Eps: 0.05
+Step 555000 | Train Avg: 9.0 | Eval Score: 22.4 | Eps: 0.05
+Step 560000 | Train Avg: 9.3 | Eval Score: 19.4 | Eps: 0.05
+Step 565000 | Train Avg: 10.1 | Eval Score: 17.4 | Eps: 0.05
+Step 570000 | Train Avg: 10.1 | Eval Score: 23.2 | Eps: 0.05
+Step 575000 | Train Avg: 10.0 | Eval Score: 18.4 | Eps: 0.05
+Step 580000 | Train Avg: 9.7 | Eval Score: 14.2 | Eps: 0.05
+Step 585000 | Train Avg: 10.5 | Eval Score: 16.8 | Eps: 0.05
+Step 590000 | Train Avg: 10.8 | Eval Score: 16.6 | Eps: 0.05
+Step 595000 | Train Avg: 11.6 | Eval Score: 16.8 | Eps: 0.05
+Step 600000 | Train Avg: 10.7 | Eval Score: 16.4 | Eps: 0.05
+Step 605000 | Train Avg: 9.6 | Eval Score: 13.4 | Eps: 0.05
+Step 610000 | Train Avg: 10.2 | Eval Score: 12.0 | Eps: 0.05
+Step 615000 | Train Avg: 10.8 | Eval Score: 20.0 | Eps: 0.05
+Step 620000 | Train Avg: 10.5 | Eval Score: 19.2 | Eps: 0.05
+Step 625000 | Train Avg: 10.1 | Eval Score: 20.4 | Eps: 0.05
+Step 630000 | Train Avg: 9.9 | Eval Score: 19.6 | Eps: 0.05
+Step 635000 | Train Avg: 9.7 | Eval Score: 15.2 | Eps: 0.05
+Step 640000 | Train Avg: 9.2 | Eval Score: 15.4 | Eps: 0.05
+Step 645000 | Train Avg: 9.7 | Eval Score: 14.2 | Eps: 0.05
+Step 650000 | Train Avg: 9.7 | Eval Score: 16.8 | Eps: 0.05
+Step 655000 | Train Avg: 10.0 | Eval Score: 22.2 | Eps: 0.05
+Step 660000 | Train Avg: 10.8 | Eval Score: 22.0 | Eps: 0.05
+Step 665000 | Train Avg: 10.3 | Eval Score: 16.4 | Eps: 0.05
+Step 670000 | Train Avg: 10.4 | Eval Score: 16.4 | Eps: 0.05
+Step 675000 | Train Avg: 10.3 | Eval Score: 18.0 | Eps: 0.05
+Step 680000 | Train Avg: 8.8 | Eval Score: 16.4 | Eps: 0.05
+Step 685000 | Train Avg: 8.3 | Eval Score: 15.8 | Eps: 0.05
