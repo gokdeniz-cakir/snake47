@@ -49,6 +49,16 @@ snake47 uses only **16 basic sensors** (danger/food direction/distances) and lea
 - Body distances (3): Steps to own body in each direction
 - Board state (1): How full is the board?
 
+## Performance Comparison: Evolution vs. CNN
+
+The logs from **snake47 (ES)** against a traditional **Deep Q-Network (CNN)** approach. The results highlights the efficiency of biological-inspired learning for Snake:
+
+![Performance Comparison](results/comparison_plot.png)
+
+
+
+> **Insight**: The CNN is too inefficient for a task like Snake, requiring intense compute power for relatively worse performance. The ES agent, using direct sensors and a survival-of-the-fittest mechanic, is able to discover optimal strategies while also running much faster.
+
 ## Quick Start
 
 ### Installation
