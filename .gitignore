@@ -1,3 +1,14 @@
-.__pycache__/
+__pycache__/
 *.py[cod]
 *$py.class
+.env
+.venv
+env/
+venv/
+.vscode/
+
+
+dqn/legacy/checkpoints_phase1/*.pth
+!dqn/legacy/checkpoints_phase1/model_best.pth
+dqn/legacy/checkpoints_phase2/*.pth
+!dqn/legacy/checkpoints_phase2/model_best.pth
