@@ -1,5 +1,9 @@
 # snake47
 
+<p align="center">
+  <img src="results/demo_score79.gif" alt="snake47 Gameplay">
+</p>
+
 A comprehensive study of learning-based AI for the classic Snake game. This repository documents the journey from a slow, vision-based Deep Q-Network (DQN) to a highly efficient and effective Evolutionary Strategy (ES) agent.
 
 ## Project Vision
